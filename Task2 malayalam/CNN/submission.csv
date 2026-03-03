@@ -1,0 +1,201 @@
+file_name,label,status
+m1.wav,1,Depressed
+m2.wav,0,Not Depressed
+m3.wav,1,Depressed
+m4.wav,0,Not Depressed
+m5.wav,1,Depressed
+m6.wav,0,Not Depressed
+m7.wav,1,Depressed
+m8.wav,0,Not Depressed
+m9.wav,1,Depressed
+m10.wav,0,Not Depressed
+m11.wav,1,Depressed
+m12.wav,0,Not Depressed
+m13.wav,1,Depressed
+m14.wav,0,Not Depressed
+m15.wav,1,Depressed
+m16.wav,0,Not Depressed
+m17.wav,1,Depressed
+m18.wav,0,Not Depressed
+m19.wav,1,Depressed
+m20.wav,0,Not Depressed
+m21.wav,1,Depressed
+m22.wav,1,Depressed
+m23.wav,1,Depressed
+m24.wav,1,Depressed
+m25.wav,1,Depressed
+m26.wav,1,Depressed
+m27.wav,1,Depressed
+m28.wav,1,Depressed
+m29.wav,1,Depressed
+m30.wav,1,Depressed
+m31.wav,1,Depressed
+m32.wav,1,Depressed
+m33.wav,0,Not Depressed
+m34.wav,1,Depressed
+m36.wav,0,Not Depressed
+m37.wav,1,Depressed
+m39.wav,0,Not Depressed
+m40.wav,1,Depressed
+m42.wav,0,Not Depressed
+m43.wav,1,Depressed
+m45.wav,0,Not Depressed
+m46.wav,1,Depressed
+m48.wav,0,Not Depressed
+m49.wav,1,Depressed
+m51.wav,0,Not Depressed
+m52.wav,1,Depressed
+m54.wav,0,Not Depressed
+m55.wav,1,Depressed
+m57.wav,0,Not Depressed
+m60.wav,0,Not Depressed
+m61.wav,0,Not Depressed
+m62.wav,1,Depressed
+m63.wav,0,Not Depressed
+m64.wav,1,Depressed
+m65.wav,0,Not Depressed
+m66.wav,1,Depressed
+m67.wav,0,Not Depressed
+m68.wav,1,Depressed
+m69.wav,0,Not Depressed
+m70.wav,1,Depressed
+m71.wav,0,Not Depressed
+m72.wav,1,Depressed
+m73.wav,0,Not Depressed
+m74.wav,1,Depressed
+m75.wav,0,Not Depressed
+m76.wav,1,Depressed
+m77.wav,0,Not Depressed
+m78.wav,1,Depressed
+m79.wav,0,Not Depressed
+m80.wav,1,Depressed
+m81.wav,0,Not Depressed
+m82.wav,1,Depressed
+m83.wav,0,Not Depressed
+m84.wav,1,Depressed
+m85.wav,0,Not Depressed
+m86.wav,1,Depressed
+m87.wav,0,Not Depressed
+m88.wav,1,Depressed
+m89.wav,0,Not Depressed
+m90.wav,1,Depressed
+m91.wav,0,Not Depressed
+m92.wav,1,Depressed
+m93.wav,0,Not Depressed
+m94.wav,1,Depressed
+m95.wav,0,Not Depressed
+m96.wav,1,Depressed
+m97.wav,0,Not Depressed
+m98.wav,1,Depressed
+m99.wav,0,Not Depressed
+m100.wav,1,Depressed
+m101.wav,0,Not Depressed
+m102.wav,1,Depressed
+m103.wav,0,Not Depressed
+m104.wav,1,Depressed
+m105.wav,0,Not Depressed
+m106.wav,1,Depressed
+m107.wav,0,Not Depressed
+m108.wav,1,Depressed
+m109.wav,0,Not Depressed
+m110.wav,1,Depressed
+m111.wav,0,Not Depressed
+m112.wav,1,Depressed
+m113.wav,0,Not Depressed
+m114.wav,1,Depressed
+m115.wav,0,Not Depressed
+m116.wav,1,Depressed
+m117.wav,0,Not Depressed
+m118.wav,1,Depressed
+m119.wav,0,Not Depressed
+m120.wav,1,Depressed
+m130.wav,1,Depressed
+m131.wav,0,Not Depressed
+m132.wav,0,Not Depressed
+m133.wav,0,Not Depressed
+m134.wav,0,Not Depressed
+m135.wav,1,Depressed
+m136.wav,0,Not Depressed
+m137.wav,0,Not Depressed
+m138.wav,0,Not Depressed
+m139.wav,0,Not Depressed
+m140.wav,1,Depressed
+m141.wav,1,Depressed
+m142.wav,1,Depressed
+m143.wav,1,Depressed
+m144.wav,1,Depressed
+m145.wav,1,Depressed
+m146.wav,0,Not Depressed
+m147.wav,0,Not Depressed
+m148.wav,0,Not Depressed
+m149.wav,0,Not Depressed
+m150.wav,1,Depressed
+m151.wav,0,Not Depressed
+m152.wav,1,Depressed
+m155.wav,1,Depressed
+m156.wav,0,Not Depressed
+m157.wav,1,Depressed
+m160.wav,1,Depressed
+m161.wav,0,Not Depressed
+m162.wav,1,Depressed
+m165.wav,1,Depressed
+m166.wav,0,Not Depressed
+m167.wav,1,Depressed
+m170.wav,1,Depressed
+m171.wav,0,Not Depressed
+m172.wav,1,Depressed
+m175.wav,1,Depressed
+m176.wav,0,Not Depressed
+m177.wav,1,Depressed
+m180.wav,1,Depressed
+m181.wav,0,Not Depressed
+m182.wav,1,Depressed
+m185.wav,1,Depressed
+m186.wav,0,Not Depressed
+m187.wav,1,Depressed
+m190.wav,1,Depressed
+m191.wav,0,Not Depressed
+m192.wav,1,Depressed
+m195.wav,1,Depressed
+m196.wav,0,Not Depressed
+m197.wav,1,Depressed
+m200.wav,1,Depressed
+m201.wav,0,Not Depressed
+m202.wav,0,Not Depressed
+m203.wav,0,Not Depressed
+m204.wav,0,Not Depressed
+m205.wav,1,Depressed
+m206.wav,0,Not Depressed
+m207.wav,0,Not Depressed
+m208.wav,0,Not Depressed
+m209.wav,0,Not Depressed
+m210.wav,1,Depressed
+m211.wav,0,Not Depressed
+m212.wav,0,Not Depressed
+m213.wav,0,Not Depressed
+m214.wav,0,Not Depressed
+m215.wav,1,Depressed
+m216.wav,0,Not Depressed
+m220.wav,1,Depressed
+m225.wav,1,Depressed
+m226.wav,0,Not Depressed
+m227.wav,0,Not Depressed
+m228.wav,0,Not Depressed
+m229.wav,0,Not Depressed
+m230.wav,0,Not Depressed
+m231.wav,0,Not Depressed
+m232.wav,0,Not Depressed
+m233.wav,0,Not Depressed
+m234.wav,0,Not Depressed
+m235.wav,0,Not Depressed
+m236.wav,0,Not Depressed
+m237.wav,0,Not Depressed
+m238.wav,0,Not Depressed
+m239.wav,0,Not Depressed
+m240.wav,0,Not Depressed
+m241.wav,1,Depressed
+m242.wav,1,Depressed
+m243.wav,1,Depressed
+m244.wav,1,Depressed
+m245.wav,0,Not Depressed
+m246.wav,0,Not Depressed
