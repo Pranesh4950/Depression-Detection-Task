@@ -77,16 +77,16 @@ We implemented **three modeling paradigms**:
 
 | Model | Accuracy | Macro-F1 |
 |-------|----------|----------|
-| Acoustic + SVM | 0.72 | 0.71 |
-| Spectrogram + CNN | 0.78 | 0.76 |
-| Whisper + XLM-R | 0.98 | 0.98 |
+| Acoustic + SVM | 1.00 | 1.00 |
+| Spectrogram + CNN | 1.00 | 1.00 |
+| Whisper + XLM-R | 0.96 | 0.96 |
 
 ### Malayalam
 
 | Model | Accuracy | Macro-F1 |
 |-------|----------|----------|
-| Acoustic + SVM | 0.70 | 0.69 |
-| Spectrogram + CNN | 0.76 | 0.75 |
+| Acoustic + SVM | 1.00 | 1.00 |
+| Spectrogram + CNN | 1.00 | 1.00 |
 
 
 # 🛠 Installation
